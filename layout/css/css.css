@@ -1,0 +1,29 @@
+body {
+  background-color: #333;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background: #efefef;
+}
+#particles-js {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.log {
+  width: 33%;
+  height: 50%;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  left: 33%;
+  top: 25%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 30px;
+}
+label {
+  width: 150px;
+  text-align: right;
+  display: inline-block;
+}
